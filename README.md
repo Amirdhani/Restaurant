@@ -4,6 +4,8 @@ A fully responsive and stylish restaurant website template built
 using **HTML**, **CSS**, and **Bootstrap 5**, with a warm and vibrant color theme, 
 animated hero images, and an elegant font (Dancing Script) that reflects a fine dining ambiance.
 
+visit the live link: https://restaurant-website-c1.netlify.app/
+
 ---
 
 ## 🌟 Features
